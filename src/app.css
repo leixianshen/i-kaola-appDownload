@@ -1,0 +1,23 @@
+*{
+margin:0;
+padding:0;
+}
+.userTest{
+    height:100%;
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.AppBtnClass{
+    position: fixed;
+    top:50%;
+    left:50%;
+    transform: translateX(-50%);
+}
+.bgImg{
+    position: fixed;
+    top:50%;
+    transform: translateY(-50%);
+}
